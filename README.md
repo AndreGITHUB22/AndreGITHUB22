@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AndreGITHUB22
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning PHP,MySQL,HTML,Git
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analytics/Science
+- 🌱 I’m currently learning SQL,Python,Tableau
+- 📫 How to reach me kolpakov.andrii1@gmail.com
 - 
 I recommend you the "learngitbranching" site to learn basic of git)
 <!---
